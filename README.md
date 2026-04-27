@@ -172,11 +172,3 @@ It is relevant to any system involving:
 Background in mathematics, machine learning, and complex system modeling.
 
 ---
-
-## Key Takeaway
-
-> When priority meets randomness, **deterministic rules no longer guarantee deterministic outcomes**.
-
-Understanding this interaction is essential for designing and analyzing modern distributed systems.
-
----
